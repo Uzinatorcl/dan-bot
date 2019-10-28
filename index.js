@@ -13,7 +13,7 @@ const possibleAnswers = ['a', 'b', 'c', 'd', 'e'];
 let triviaTimer;
 
 client.once('ready', () => {
-	console.log('bot running...');
+	console.log('dans ready');
 });
 function cssTriviaTimer() {
 	cssQuestionsActivity.time++;
