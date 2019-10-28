@@ -1,0 +1,25 @@
+{
+  "prefix": "hey dan",
+  "cssQuestions": [
+    {
+      "question": "What does CSS stand for?\n A) Creative Style Sheets \n B) Colorful Style Sheets \n C) Computer Style Sheets \n D) Cascading Style Sheets",
+      "answer": "d"
+    },
+    {
+      "question": "How can you make a list that lists the items with numbers? \n a)ol \n b) dl \n c) ul \n d) list",
+      "answer": "a"
+    },
+    {
+      "question": "The page title is inside the____tag. \n a) Body \n b) Head \n c) Division \n d) Table",
+      "answer": "b"
+    },
+    {
+      "question": "From the inside out, which of the following portrays the correct order of a box model? \n a) margin, border, padding, content \n b) content, margin, border, padding \n c) border, margin, content, padding \n d) content, padding, border, margin \n e) padding, content, margin, border",
+      "answer": "d"
+    },
+    {
+      "question": "“a:hover” and “a:active” are both examples of what? \n a) pseudo - classes \n b) attribute selectors \n c) ids \n d) selectors",
+      "answer": "a"
+    }
+  ]
+}
